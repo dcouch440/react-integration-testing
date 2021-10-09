@@ -4,7 +4,7 @@
 
 # `About`
 
-A simple application dedicated to take advantage of Reacts testing library.
+A simple non styled application dedicated to take advantage of Reacts testing library.
 
 Tests to include
 
